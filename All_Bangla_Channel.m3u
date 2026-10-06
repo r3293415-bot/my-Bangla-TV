@@ -1,0 +1,78 @@
+#EXTM3U
+
+# ==================== BANGLADESHI CHANNELS ====================
+
+#EXTINF:-1 tvg-id="SomoyTV.bd" tvg-logo="https://githubusercontent.com" group-title="Bangladesh News", Somoy TV
+https://githubusercontent.com
+
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-logo="https://githubusercontent.com" group-title="Bangladesh News", Jamuna TV
+https://githubusercontent.com
+
+#EXTINF:-1 tvg-id="IndependentTV.bd" tvg-logo="https://githubusercontent.com" group-title="Bangladesh News", Independent TV
+https://githubusercontent.com
+
+#EXTINF:-1 tvg-id="Channel24.bd" tvg-logo="https://githubusercontent.com" group-title="Bangladesh News", Channel 24
+https://githubusercontent.com
+
+#EXTINF:-1 tvg-id="EkattorTV.bd" tvg-logo="https://githubusercontent.com" group-title="Bangladesh News", Ekattor TV
+https://githubusercontent.com
+
+#EXTINF:-1 tvg-id="ChannelI.bd" tvg-logo="https://githubusercontent.com" group-title="Bangladesh General", Channel i
+https://githubusercontent.com
+
+#EXTINF:-1 tvg-id="NTV.bd" tvg-logo="https://githubusercontent.com" group-title="Bangladesh General", NTV
+https://githubusercontent.com
+
+#EXTINF:-1 tvg-id="RTV.bd" tvg-logo="https://githubusercontent.com" group-title="Bangladesh General", RTV
+https://githubusercontent.com
+
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-logo="https://githubusercontent.com" group-title="Bangladesh General", ATN Bangla
+https://githubusercontent.com
+
+#EXTINF:-1 tvg-id="Banglavision.bd" tvg-logo="https://githubusercontent.com" group-title="Bangladesh General", Banglavision
+https://githubusercontent.com
+
+#EXTINF:-1 tvg-id="DeeptoTV.bd" tvg-logo="https://githubusercontent.com" group-title="Bangladesh General", Deepto TV
+https://githubusercontent.com
+
+#EXTINF:-1 tvg-id="MaasrangaTV.bd" tvg-logo="https://githubusercontent.com" group-title="Bangladesh General", Maasranga TV
+https://githubusercontent.com
+
+#EXTINF:-1 tvg-id="GaziTV.bd" tvg-logo="https://githubusercontent.com" group-title="Bangladesh General", GTV (Gazi TV)
+https://githubusercontent.com
+
+#EXTINF:-1 tvg-id="TSports.bd" tvg-logo="https://githubusercontent.com" group-title="Bangladesh Sports", T Sports
+https://githubusercontent.com
+
+#EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://githubusercontent.com" group-title="Bangladesh Government", BTV World
+https://githubusercontent.com
+
+
+# ==================== INDIAN BANGLA CHANNELS ====================
+
+#EXTINF:-1 tvg-id="StarJalsha.in" tvg-logo="https://githubusercontent.com" group-title="Indian Bangla Entertainment", Star Jalsha
+http://150.107.195
+
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-logo="https://githubusercontent.com" group-title="Indian Bangla Entertainment", Zee Bangla
+http://150.107.195
+
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-logo="https://githubusercontent.com" group-title="Indian Bangla Entertainment", Colors Bangla
+http://150.107.195
+
+#EXTINF:-1 tvg-id="SonyAath.in" tvg-logo="https://githubusercontent.com" group-title="Indian Bangla Entertainment", Sony Aath
+http://150.107.195
+
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-logo="https://githubusercontent.com" group-title="Indian Bangla Movies", Jalsha Movies
+http://150.107.195
+
+#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" tvg-logo="https://githubusercontent.com" group-title="Indian Bangla Movies", Zee Bangla Cinema
+http://150.107.195
+
+#EXTINF:-1 tvg-id="StarAnanda.in" tvg-logo="https://githubusercontent.com" group-title="Indian Bangla News", ABP Ananda
+http://150.107.195
+
+#EXTINF:-1 tvg-id="News18Bangla.in" tvg-logo="https://githubusercontent.com" group-title="Indian Bangla News", News18 Bangla
+http://150.107.195
+
+#EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-logo="https://githubusercontent.com" group-title="Indian Bangla Entertainment", Enterr10 Bangla
+https://i.mjh.nz/SamsungTVPlus/INBD130001674.m3u8
